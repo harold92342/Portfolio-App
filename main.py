@@ -10,11 +10,8 @@ with col1:
 with col2:
     st.title("Timothée Kabwe")
     content = """
-    Hi, I am Timothy Kabwe, a systems and Network Administration Engineer from Salama
-    Higher Institute of Computer Science(ESISALAMA - DON BOSCO University, Democratic Republic of Congo).
-    Python is my programming language of choice, and I'm fueled by a strong passion for data analysis.
-    Presently, I'm immersed in the dynamic world of IT as an IT Support Technician at Kamoa Copper SA, part of the Ivanohemines Group. 
-    My role involves providing robust technical support and solutions to ensure smooth operations.
+    I am a PMP®-certified IT professional with 5+ years of experience in IT infrastructure, project coordination, and data analysis.
+I bridge the gap between business needs and technical execution, using tools like Excel, Power BI, SQL, and Python to deliver insights that drive impact.
     """
     st.info(content)
 
